@@ -1,5 +1,4 @@
-# Awesome Project Build with TypeORM
-        
+# A backend framework with NodeJS and Typescript with TypeORM        
 Steps to run this project:
 
 1. Run `npm i` command
